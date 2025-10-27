@@ -1,0 +1,5 @@
+{
+  "name": "MS-BASIC Emulator",
+  "description": "A fully functional MS-BASIC emulator with a classic Windows XP terminal theme. It supports various BASIC commands, program execution, and font configuration for a nostalgic programming experience.",
+  "requestFramePermissions": []
+}
